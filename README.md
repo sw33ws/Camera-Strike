@@ -28,6 +28,6 @@ First open it in vs code, then open it in the your browser, with a addon like ``
 
 Todo add better contact info
 
-https://github.com/sw33ws
-https://github.com/FrostyOnyx
-https://github.com/luckyorangecat
+- https://github.com/sw33ws
+- https://github.com/FrostyOnyx
+- https://github.com/luckyorangecat
