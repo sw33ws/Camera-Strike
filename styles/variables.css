@@ -1,0 +1,15 @@
+/* 
+Basic Color scheme, and variable page
+*/
+
+:root {
+    --discord: #7289da;
+    --oneDrive: #0078D4;
+    --voiceThreads: ;
+    --highlightText: white;
+}
+
+/* 
+Use Case Example:
+color: var(--main);
+*/

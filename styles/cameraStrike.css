@@ -1,0 +1,10 @@
+/* 
+Basic styles for any Camera Strike Page
+- Nav, Footer
+*/
+
+/* apa 7 indenting (the second line is raised) */
+.references {
+    text-indent: -36px;
+    padding-left: 36px;
+}
