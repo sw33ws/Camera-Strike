@@ -13,7 +13,7 @@ You can vist the finished website here [here](https://sw33ws.github.io/Camera-St
 - [Contact](#contact-info)
 
 ---
-![](imgages/conceptImages/conceptTwo.jpg) 
+![](images/conceptImages/conceptTwo.jpg) 
 ---
 
 ## Installation
