@@ -6,7 +6,12 @@ Basic Color scheme, and variable page
     --discord: #7289da;
     --oneDrive: #0078D4;
     --voiceThreads: black;
-    --highlightText: white;
+
+    --highlightText: rgb(64, 89, 173);
+    --cameraStrikeText: rgb(31, 49, 107);
+
+    --darkBackground: rgb(180, 172, 189);
+    --lightBackground: rgb(229, 226, 221);
 }
 
 /* 

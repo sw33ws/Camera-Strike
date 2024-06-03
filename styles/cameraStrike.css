@@ -1,10 +1,79 @@
-/* 
-Basic styles for any Camera Strike Page
-- Nav, Footer
-*/
+/* html and body */
+
+*, html, body {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background-color: var(--lightBackground);
+}
+
+/* Nav */
+nav {
+    background-color: var(--darkBackground);
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    font-size: 20px;
+    color: var(--cameraStrikeText);
+}
+
+nav ul li a:hover {
+    color: var(--highlightText);
+}
+
+nav ul li a img {
+    height: 50px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    background-color: var(--darkBackground);
+    padding: 20px;
+}
+
+footer p {
+    margin: 20px;
+}
+
+footer p a {
+    text-decoration: none;
+    color: var(--cameraStrikeText);
+}
+
+footer p a:hover {
+    color: var(--highlightText);
+}
 
 /* apa 7 indenting (the second line is raised) */
+.referencesContainer {
+    margin: 20px auto;
+    width: 80%;
+}
+
+.referencesContainer h1 {
+    text-align: center;
+}
+
 .references {
     text-indent: -36px;
     padding-left: 36px;
+    margin: 10px;
 }
