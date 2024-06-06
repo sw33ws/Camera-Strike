@@ -1,0 +1,54 @@
+header {
+    background-color: var(--headerBackground);
+}
+
+header h1 {
+    text-align: center;
+    font-weight: bold;
+    padding: 35px 0px 10px 0px;
+}
+
+.titleImages {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    justify-items: center;
+    align-items: center;
+}
+
+.titleImages img {
+    width: 50%;
+    margin: 10px;
+}
+
+.mainContent {
+    width: 60%;
+    margin: 50px auto;
+}
+
+.mainContent h2 {
+    padding: 5px 0px;
+}
+
+ol li {
+    padding: 5px;
+}
+
+ol li a {
+    text-decoration: underline;
+    color: var(--cameraStrikeText);
+    font-family: bold;
+    font-size: 18px;
+}
+
+@media only screen and (max-width: 600px) {
+    .mainContent {
+        width: 100%;
+        margin: 0px;
+        padding: 15px;
+    }
+
+    ol {
+        padding: 15px;
+    }
+}
