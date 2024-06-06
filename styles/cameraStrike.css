@@ -47,6 +47,7 @@ footer {
     text-align: center;
     background-color: var(--darkBackground);
     padding: 20px;
+    margin-top: 15px;
 }
 
 footer p {
