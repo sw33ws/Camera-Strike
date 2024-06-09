@@ -18,7 +18,9 @@ header h1 {
 
 .titleImages img {
     width: 50%;
-    margin: 10px;
+    display: block;
+    margin: 10px auto;
+    width: 50%;
 }
 
 .mainContent {

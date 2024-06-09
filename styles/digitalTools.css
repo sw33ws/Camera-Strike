@@ -5,31 +5,40 @@ Styles for the three digital tools:
 - VoiceThread
 */
 
-main.title{
-    
+main {
+    width: 60%;
+    margin: 15px auto;
 }
 
-
-
 h1.Disc {
-    
     text-align:center;
-
+    margin: 10px;
 }
 
 div.LogoWrap{
     display:flex;
-    align-items:flex-start;
-
-}
-
-p.Wrap{
-    flex: 1;
 }
 
 img.Logo {
     margin-right: 20px;
-    width:824px;
-    height:156px;
+    max-width: 400px;
+}
 
+iframe {
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin: 20px auto;
+    width: 60%;
+    height: 300px;
+}
+
+@media only screen and (max-width: 1200px) {
+    div.LogoWrap {
+        display: block;
+    }
+    main {
+        width: 100%;
+        margin: 10px;
+    }
 }
