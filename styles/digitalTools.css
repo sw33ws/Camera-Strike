@@ -4,3 +4,32 @@ Styles for the three digital tools:
 - One Drive
 - VoiceThread
 */
+
+main.title{
+    
+}
+
+
+
+h1.Disc {
+    
+    text-align:center;
+
+}
+
+div.LogoWrap{
+    display:flex;
+    align-items:flex-start;
+
+}
+
+p.Wrap{
+    flex: 1;
+}
+
+img.Logo {
+    margin-right: 20px;
+    width:824px;
+    height:156px;
+
+}
