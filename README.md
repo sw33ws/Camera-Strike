@@ -2,7 +2,7 @@
 
 ## Summary
 
-This is our first project, Todo add a summary
+With online class's becoming more and more common, the use of pen and pencil is rapidal being replaced with digitals tools. Unfortunately not all digital tools are helpful, and accessible for the average user. With paywalls, confusing and /or broken features It can be come pretty hard to find useful tools for individual work, much less group work. So we at cameraStrike have put together of a list of three tools we think you should get formilar with. 
 
 You can vist the finished website here [here](https://sw33ws.github.io/Camera-Strike/)
 
